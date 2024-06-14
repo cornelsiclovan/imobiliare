@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "ploscaru",
+    "db": "mongodb://localhost/carla"
+}
